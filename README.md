@@ -40,21 +40,21 @@ Once all the features have been finished, one person should make a release `v1.0
 * Add another question to `file3.md`
 * Add another question to `file4.md`
 * Add another question to `file5.md`
-* Add an answer to the second question on `file 1.`md
-* Add an answer to the second question on `file 2.`md
-* Add an answer to the second question on `file 3.`md
-* Add an answer to the second question on `file 4.`md
-* Add an answer to the second question on `file 5.`md
+* Add an answer to the second question on `file 1.md`
+* Add an answer to the second question on `file 2.md`
+* Add an answer to the second question on `file 3.md`
+* Add an answer to the second question on `file 4.md`
+* Add an answer to the second question on `file 5.md`
 * Add another question to `file6.md`
 * Add another question to `file7.md`
 * Add another question to `file8.md`
 * Add another question to `file9.md`
 * Add another question to `file10.md`
-* Add an answer to the second question on `file 6.`md
-* Add an answer to the second question on `file 7.`md
-* Add an answer to the second question on `file 8.`md
-* Add an answer to the second question on `file 9.`md
-* Add an answer to the second question on `file 10.`md
+* Add an answer to the second question on `file 6.md`
+* Add an answer to the second question on `file 7.md`
+* Add an answer to the second question on `file 8.md`
+* Add an answer to the second question on `file 9.md`
+* Add an answer to the second question on `file 10.md`
 
 ## Release
 
