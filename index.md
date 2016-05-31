@@ -5,7 +5,7 @@ title: Git Flow
 
 # Git Flow
 
-A text-file based thing for practising Git Flow workflow. Follow the [git flow model](http://nvie.com/posts/a-successful-git-branching-model/) and take one feature per person. Don't worry about Hotfix branches for now: just concentrate on using `master`, `develop`, and `feature` branches, and use `git tag` for a release.
+A text-file based thing for practising Git Flow workflow. Follow the [git flow model](http://nvie.com/posts/a-successful-git-branching-model/) and take one feature per person. Don't worry about Hotfix branches for now: concentrate on using `master`, `develop`, and `feature` branches, and use `git tag` for a release.
 
 To get your code into our text application thing:
 
@@ -19,7 +19,7 @@ Get started by doing a `git clone` on this repo. Then look at [Feature List Part
 ## Discussion topics
 
 * Why use `develop` as the main branch instead of `master`?
-* What state should `master` be in, in terms of tests?
+* What state should `master` be in, for tests?
 * What happened when you pushed and pulled `develop`?
 * What branches are allowed to merge into and out of `develop` and `master`?
 * What does `git tag` do and why is it useful?
